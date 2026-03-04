@@ -1,5 +1,5 @@
-# Geo-Prior
-# 🌍 Geo-Gated Net: Geo-Prior Guided Multi-Modal Fusion for Remote Sensing Semantic Segmentation
+# M2-DINO
+# 🌍 M2-DINO: Multi-Modal Gated Fusion Network for Few-Shot Remote Sensing Segmentation with Frozen DINOv3
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
